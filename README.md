@@ -17,3 +17,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+![Screen Shot 2023-04-12 at 12 49 52 PM](https://user-images.githubusercontent.com/124204327/231641277-6d1454c6-f0e1-4941-bc70-02f434f043c9.png)
